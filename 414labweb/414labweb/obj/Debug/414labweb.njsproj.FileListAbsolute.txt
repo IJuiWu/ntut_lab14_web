@@ -1,3 +1,0 @@
-C:\Users\WuIJui\Documents\ntut_lab14_web\414labweb\414labweb\obj\Debug\414labweb.njsproj.AssemblyReference.cache
-C:\Users\WuIJui\Documents\ntut_lab14_web\414labweb\414labweb\obj\Debug\414labweb.njsproj.CoreCompileInputs.cache
-C:\Users\WuIJui\Documents\ntut_lab14_web\414labweb\414labweb\bin\Microsoft.NodejsTools.WebRole.dll
